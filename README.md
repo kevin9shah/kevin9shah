@@ -57,12 +57,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kevin9shah&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kevin9shah&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9shah&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <h3 align="center">🌍 Taking over the world, slowly but surely.</h3>
 
 ---
