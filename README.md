@@ -1,4 +1,5 @@
 # 💫 About Me:
+MY Name is Kevin Shah & I am:
 💻 IT student at VIT Vellore passionate about building scalable backend systems, AI-driven applications, and data platforms<br><br>
 🤖 Interested in Machine Learning, LLMs, RAG systems, and real-world AI automation projects<br><br>
 ⚙️ Experienced with Python, SQL, MERN stack, REST APIs, and cloud-based data pipelines<br><br>
