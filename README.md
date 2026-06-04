@@ -1,5 +1,5 @@
 # 💫 About Me:
-MY Name is Kevin Shah & I am:
+My name is Kevin Shah & I am:
 
 
 💻 IT student at VIT Vellore passionate about building scalable backend systems, AI-driven applications, and data platforms<br><br>
